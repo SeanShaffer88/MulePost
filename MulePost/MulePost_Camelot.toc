@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: MulePost
+## Notes: At the mailbox, one click routes your bags: cloth to your tailor, herbs to your alchemist, junk to your bank alt - planned, priced, and reviewed by you before anything sends. Gold is never attached.
+## Author: Sean Shaffer
+## IconTexture: Interface\Icons\INV_Letter_01
+## Version: 0.1.0
+## SavedVariables: MulePostDB
+## X-License: MIT
+## Category: Mail
+
+Core.lua
+Plan.lua
+Send.lua
+UI.lua
